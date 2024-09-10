@@ -1,0 +1,6 @@
+ex4.c:7:6:init_7seg_th	16	static
+ex4.c:32:6:init_ex4	8	static
+ex4.c:36:6:display7SEG	16	static
+ex4.c:133:6:display7SEG_LED2	16	static
+ex4.c:230:6:ex4_run	8	static
+ex4.c:236:6:led_7seg_run	8	static

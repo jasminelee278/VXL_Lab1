@@ -1,0 +1,4 @@
+ex1.c:9:6:led_on	8	static
+ex1.c:13:6:led_off	8	static
+ex1.c:17:6:init_ex1	8	static
+ex1.c:21:6:ex1_run	8	static
